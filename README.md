@@ -1,5 +1,5 @@
 # JWT Authentication Security Lab
-
+# Mohamed Osama 2305180
 This lab demonstrates secure vs vulnerable JWT authentication implementations, showcasing common JWT security issues and their proper mitigations.
 
 ## 🚀 Quick Start
